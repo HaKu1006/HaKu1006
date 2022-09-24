@@ -8,4 +8,6 @@ Created on Sun Jun 26 21:56:57 2022
 a = 'test_list'
 
 
+s
+
 
